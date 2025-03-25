@@ -84,7 +84,7 @@ def main():
         
         pilihan = input("Pilih menu (1-5): ")
         
-        # Struktur kontrol: Percabangan untuk menu
+        # Struktur kontrol: Pilih Menu
         if pilihan == "1":
             tampilkan_helm()
         elif pilihan == "2":

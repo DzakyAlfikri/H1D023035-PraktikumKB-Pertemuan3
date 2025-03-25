@@ -16,5 +16,5 @@ Program dibangun menggunakan Python dengan memanfaatkan:
 - Pengembalian Helm : Ubah status helm dari "Disewa" menjadi "Tersedia".
 - Riwayat Transaksi : Tampilkan semua transaksi dalam format tabel rapi.
 
-**Untuk menjalankan program ini jangan lupa install library tabulate
-pip install tabulate**
+Untuk menjalankan program ini jangan lupa install library tabulate
+**pip install tabulate**

@@ -8,7 +8,7 @@ Program ini adalah sistem manajemen penyewaan helm sederhana yang memungkinkan p
 Program dibangun menggunakan Python dengan memanfaatkan:
 - Struktur data: Dictionary dan List untuk menyimpan informasi.
 - Struktur Kontrol : if else, for loop, while untuk menu dan validasi input
-- Library : datetime dan tabulate untuk tampilan yang lebih baik.
+- Library : datetime dan tabulate untuk membuat tabel.
 
 **Fitur Utama**
 - Manajemen Stok Helm : Tampilkan daftar helm beserta status ketersediaan, Update status helm otomatis (Tersedia/Disewa).
